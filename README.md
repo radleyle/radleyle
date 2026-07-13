@@ -1,6 +1,6 @@
 ### Hey there 🙌
 
-I'm **Nguyen Le**, a Computer Science student at **Bucknell University**.
+I'm **Nguyen Le**. You can call me Radley as well! I'm a Computer Science student at **Bucknell University**.
 
 I work at the intersection of **AI engineering** and **full-stack engineering** — building real systems, not just demos. I've published at **ICML VecDB 2025**, done ML research on biomass gasification, and shipped apps across the stack.
 
