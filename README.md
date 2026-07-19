@@ -9,7 +9,7 @@ I work at the intersection of **AI engineering** and **full-stack engineering** 
 ### What I'm working on
 
 - 🏢 **Contributor @ Astrio** — building a coding agent that uses formal verification to prove the code
-- 🖥️ **PC Performance Diagnoser** — a system-level performance diagnoser with Rust telemetry, anomaly detection, and an LLM explanation layer ([repo](https://github.com/radleyle/pc-performance-diagnoser))
+- 🖥️ **KitchenLab** — An AI cooking agent that **teaches**, **generates and adapts recipes**, **diagnoses failures**, **suggests substitutions**, and helps users run **small kitchen experiments** — with every answer grounded in a cited food-science knowledge base and deterministic calculators. ([repo](https://github.com/radleyle/kitchen-lab))
 - 📄 Always tinkering with something new — check my [pinned repos](https://github.com/radleyle) for the latest
 
 ---
