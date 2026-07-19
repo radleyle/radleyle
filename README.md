@@ -8,7 +8,7 @@ I work at the intersection of **AI engineering** and **full-stack engineering** 
 
 ### What I'm working on
 
-- 🏢 **SWE Intern @ Astrio** — building a coding agent that uses formal verification to prove the code
+- 🏢 **Contributor @ Astrio** — building a coding agent that uses formal verification to prove the code
 - 🖥️ **PC Performance Diagnoser** — a system-level performance diagnoser with Rust telemetry, anomaly detection, and an LLM explanation layer ([repo](https://github.com/radleyle/pc-performance-diagnoser))
 - 📄 Always tinkering with something new — check my [pinned repos](https://github.com/radleyle) for the latest
 
